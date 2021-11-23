@@ -5,6 +5,7 @@
 - I am interested in developing ReactJS apps and also willing to build ASP.NET apps.
 - I am focused and a hard worker as well as a problem solver.
 - ![PleaBanshee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PleaBanshee&show_icons=true)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PleaBanshee&layout=compact)](https://github.com/PleaBanshee/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
