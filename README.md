@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Llewellyn Anthony.
-I am a passionate developer that is eager to learn some new skills!
-I am interested in developing ReactJS apps and also willing to build ASP.NET apps.
-I am focused and a hard worker as well as a problem solver.
+- My name is Llewellyn Anthony.
+- I am a passionate developer that is eager to learn some new skills!
+- I am interested in developing ReactJS apps and also willing to build ASP.NET apps.
+- I am focused and a hard worker as well as a problem solver.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
