@@ -25,5 +25,4 @@
 </div>
 
 - 🔭 I’m currently working on improving my general softskills and frontend styling/backend logic
-- 👯 I’m looking to collaborate on ReactJS or ASP.NET apps. 
-- 📫 How to reach me: llewellynant@gmail.com
+- 👯 I’m looking to collaborate on ReactJS or ASP.NET apps.
